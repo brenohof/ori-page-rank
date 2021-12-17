@@ -1,0 +1,7 @@
+bfs.html: 0.1148
+dfs.html: 0.0821
+games.html: 0.2242
+minesweeper.html: 0.114
+minimax.html: 0.1303
+search.html: 0.2111
+tictactoe.html: 0.1235

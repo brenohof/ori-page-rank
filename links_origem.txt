@@ -1,0 +1,7 @@
+bfs.html: search.html
+dfs.html: search.html bfs.html
+games.html: minesweeper.html tictactoe.html
+minesweeper.html: games.html
+minimax.html: games.html search.html
+search.html: minimax.html dfs.html bfs.html
+tictactoe.html: games.html minimax.html

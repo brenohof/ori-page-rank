@@ -1,0 +1,6 @@
+BRENO HENRIQUE DE OLIVEIRA FERREIRA
+11821BSI245
+
+Testei para a base2, ficou dando uma diferença pequena.
+Não encontrei o motivo. Se souber o pq me explica por favor.
+Valheo.
